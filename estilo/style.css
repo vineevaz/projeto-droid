@@ -103,7 +103,7 @@ header > p{
     margin: auto;
     font-family: var(--fonte-padrao);
     font-weight: normal;
-    margin-bottom: 30px;
+    padding-bottom: 30px;
     
 }
 nav{
